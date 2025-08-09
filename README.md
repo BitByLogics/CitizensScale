@@ -6,8 +6,8 @@
 
 Changes persist through server restarts, set it once and forget it!
 
-![Issues](https://img.shields.io/github/issues-raw/YourUserName/CitizensScaleTrait)
-[![Stars](https://img.shields.io/github/stars/YourUserName/CitizensScaleTrait)](https://github.com/YourUserName/CitizensScaleTrait/stargazers)
+![Issues](https://img.shields.io/github/issues-raw/BitByLogics/CitizensScale)
+[![Stars](https://img.shields.io/github/stars/BitByLogics/CitizensScale)](https://github.com/BitByLogics/CitizensScale/stargazers)
 
 <a href="#"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/supported/spigot_46h.png" height="35"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/supported/paper_46h.png" height="35"></a>
