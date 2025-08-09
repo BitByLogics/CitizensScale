@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📏 Citizens ScaleTrait
+# Citizens Scale 📏
 
 **Citizens ScaleTrait** is a lightweight Minecraft plugin that adds a `ScaleTrait` to [Citizens NPCs](https://www.spigotmc.org/resources/citizens.13811/), allowing you to resize NPCs with a single command.
 
